@@ -1,6 +1,14 @@
 # Counsely
 A mobile application for students to help them manage their stress and anxiety issues by getting help from other experienced users. Students can watch informative videos and discuss their problems with others to find suggestions and improve their life style.
 
+# Team
+Our team had following four members:
+1. Usama sadiq bscs14006
+2. Umer Saleem bscs14067
+3. Mohsin Raza bscs14051
+4. Uzma Abdul Majeed bscs14042
+
+
 # Medium-Fi Prototype
 Download the prototype folder from the repository.
 Add JustinMind extension in your browser.
