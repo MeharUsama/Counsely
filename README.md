@@ -21,6 +21,6 @@ Since no database is present yet, so video playing screen is not included in the
 Multiple users evaluated the prototype and identified some small issues in it. Detailed heuristic evaluation form is added in the respository.
 
 # Final Application
-The apk of the application can be downloaded from the folder and complete project can be downloaded from the https://drive.google.com/drive/folders/1nPCuRyqOuBZsomJw9z2iCWQuHfD8AqwA?usp=sharing
+The final application is built using Android Studio as a tool. The application can be downloaded from the folder as file named app-debug.apk and the complete android studio project can be downloaded as finalProject.rar file.
 
 
