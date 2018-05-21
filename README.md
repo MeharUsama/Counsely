@@ -20,3 +20,7 @@ Since no database is present yet, so video playing screen is not included in the
 # Prototype Evaluation Results
 Multiple users evaluated the prototype and identified some small issues in it. Detailed heuristic evaluation form is added in the respository.
 
+# Final Application
+The apk of the application can be downloaded from the folder and complete project can be downloaded from the https://drive.google.com/drive/folders/1nPCuRyqOuBZsomJw9z2iCWQuHfD8AqwA?usp=sharing
+
+
