@@ -21,6 +21,8 @@ Since no database is present yet, so video playing screen is not included in the
 Multiple users evaluated the prototype and identified some small issues in it. Detailed heuristic evaluation form is added in the respository.
 
 # Final Application
-The final application is built using Android Studio as a tool. The application can be downloaded from the folder as file named app-debug.apk and the complete android studio project can be downloaded as finalProject.rar file.
+The final application is built using Android Studio as a tool. The application can be downloaded from the folder as file named app-debug.apk and the complete android studio project can be downloaded as FinalApplication.rar file.
 
 
+# Detailed Paper and Report
+Detailed discussion of the project and paper is present in the folder as a file named 
