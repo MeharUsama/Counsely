@@ -3,7 +3,7 @@ A mobile application for students to help them manage their stress and anxiety i
 
 # Team
 Our team had following four members:
-1. Usama sadiq bscs14006
+1. Usama Sadiq bscs14006
 2. Umer Saleem bscs14067
 3. Mohsin Raza bscs14051
 4. Uzma Abdul Majeed bscs14042
