@@ -25,4 +25,7 @@ The final application is built using Android Studio as a tool. The application c
 
 
 # Detailed Paper and Report
-Detailed discussion of the project and paper is present in the folder as a file named 
+Detailed discussion of the project and paper is present in the folder as a file named group13_finalpaper.docx which includes the detailed survey results and evaluations of paper prototype, medium fi prototype and final product. 
+
+# Application Installation and Usage
+Any user can login to the application using his gmail id and can create his account. After creating account and logging in to the application, each user gets access to videos and other members of platform. Users can see videos to get help or can query their problem and get help from other users on the platform. Users can also chat individually with other users on the platform.
